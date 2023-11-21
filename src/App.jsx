@@ -1,5 +1,4 @@
 import React from "react";
-import Sidebar from "./Components/Sidebar";
 import Layout from "./Pages/Layout";
 import { Route, Routes } from "react-router-dom";
 import SignIn from "./Pages/SignIn";
