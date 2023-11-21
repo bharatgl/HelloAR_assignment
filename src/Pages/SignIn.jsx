@@ -6,7 +6,7 @@ const SignIn = () => {
     <>
       <form action="">
         <div className="flex justify-center">
-          <div className="flex mt-40 justify-center h-screen">
+          <div className="flex items-center justify-center h-screen">
             {/* Your content goes here */}
             <div className="flex justify-start bg-white p-10 flex-col">
               <div className="flex text text-4xl font-semibold text-[#552583]">
@@ -27,7 +27,7 @@ const SignIn = () => {
                   type="button"
                   className="py-3 w-full rounded-md bg-[#552583] text-white text-md font-semibold"
                 >
-                 Sign In
+                  Sign In
                 </button>
               </div>
             </div>
